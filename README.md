@@ -1,7 +1,5 @@
 # Youtube_Audio_Transcripts_Using_VectorDB
 
-# Youtube_transcripts
-
 # Description
 Possess the ability to parse every video on a YouTube channel or playlist, extract audio transcripts, and embed the videos in a vector database so that search and retrieval are possible.
 
